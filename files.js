@@ -1,0 +1,1 @@
+console.log("Este es un texto de ejemplo <files.js>");
